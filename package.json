@@ -1,0 +1,20 @@
+{
+  "name": "formich",
+  "version": "0.0.1",
+  "description": "react form using hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanbenhua/formich.git"
+  },
+  "keywords": ["form", "react-form", "react-hooks"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanbenhua/formich/issues"
+  },
+  "homepage": "https://github.com/lanbenhua/formich#readme"
+}
